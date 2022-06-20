@@ -20,7 +20,7 @@
 * Improved `sprite.addChild` to reduce recursion and improve performance
 * Improved the OpenGL implementation of glow, blur and drop shadow shaders
 * Improved the behavior of `VideoTexture` upload and `TEXTURE_READY` events
-* Improved double-click behavior on `TextField` to select a whole word
+* Improved double-click behavior on `TextField` to select a whole words
 * Improved cancel behavior for `FocusEvent.KEY_FOCUS_CHANGE`
 * Improved `sprite.buttonMode`+`focusRect` to dispatch `MouseEvent.CLICK` on space/up/enter
 * Improved the automatic tab focus order for display objects
